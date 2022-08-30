@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mastosa
-- 👀 I’m interested of how to create websites, apps etc. by programming
-- 🌱 I’m currently learning how to code with Dart and reviewing how to code overall
+- 👀 I’m interested of how to create websites, apps with a different programming languages.
+- 🌱 I’m currently learning how to code with JavaScript, HTML and CSS.
 - 📫 Easiest way to reach me is to send an email and I'll get back to you
 
 <!---
